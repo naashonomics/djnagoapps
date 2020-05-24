@@ -61,3 +61,7 @@ Available subcommands:
 Create a app/project 
 
 django-admin startproject todolist
+
+Start the server
+
+django-admin startproject todolist
