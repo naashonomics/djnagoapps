@@ -57,3 +57,7 @@ Available subcommands:
     test
     
     testserver
+
+Create a app/project 
+
+django-admin startproject todolist
